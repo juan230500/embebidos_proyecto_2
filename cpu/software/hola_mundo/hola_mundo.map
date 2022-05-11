@@ -1,0 +1,642 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                              obj/default/hello_world_small.o (__udivsi3)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o)
+                              obj/default/hello_world_small.o (alt_ic_isr_register)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o) (alt_iic_isr_register)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_handler)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+                              obj/default/hello_world_small.o (alt_irq_register)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o) (alt_irq_active)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o (alt_load)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o (alt_main)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o) (alt_irq_init)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o) (alt_instruction_exception_entry)
+c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                              c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o) (memcpy)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x0000000000000000 0x0000000000000020
+RAM              0x0000000000000020 0x00000000000013e0
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/hello_world_small.o
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a
+LOAD c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+END GROUP
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a
+                0x0000000000000000                __alt_mem_RAM = 0x0
+
+.entry          0x0000000000000000       0x20
+ *(.entry)
+ .entry         0x0000000000000000       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o
+                0x0000000000000000                __reset
+                0x000000000000000c                _exit
+
+.exceptions     0x0000000000000020      0x160
+                0x0000000000000020                PROVIDE (__ram_exceptions_start = ABSOLUTE (.))
+                0x0000000000000020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x0000000000000020        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                0x0000000000000020                alt_irq_entry
+ .exceptions.entry.label
+                0x0000000000000020        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                0x0000000000000020                alt_exception
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ .exceptions.entry
+                0x0000000000000020       0x54 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x0000000000000074       0x10 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x0000000000000084        0x4 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x0000000000000088        0x4 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x000000000000008c        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ .exceptions.notirq
+                0x000000000000008c        0x8 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ .exceptions.unknown
+                0x0000000000000094       0x14 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x00000000000000a8        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x00000000000000a8        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ .exceptions.exit
+                0x00000000000000a8       0x54 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions)
+ .exceptions    0x00000000000000fc       0x60 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x00000000000000fc                alt_irq_handler
+ .exceptions    0x000000000000015c       0x24 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x000000000000015c                alt_instruction_exception_entry
+                0x0000000000000180                PROVIDE (__ram_exceptions_end = ABSOLUTE (.))
+                0x0000000000000020                PROVIDE (__flash_exceptions_start = LOADADDR (.exceptions))
+
+.text           0x0000000000000180      0xfb0
+                [!provide]                        PROVIDE (stext = ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000000180       0x3c c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o
+                0x0000000000000180                _start
+ .text          0x00000000000001bc      0x98c obj/default/hello_world_small.o
+                0x00000000000001bc                UARTManagerFunction
+                0x00000000000003f0                changeGeneralModeOfTimer
+                0x00000000000004d8                int7Seg
+                0x000000000000057c                seeTimerNumber
+                0x000000000000064c                seeAlarmInt
+                0x000000000000071c                changeGeneralMode
+                0x00000000000007b0                changeTimerFunction
+                0x00000000000008d0                interruptorBeginner
+                0x00000000000009a8                alarmFunction
+                0x0000000000000a60                TimeCounterFunction
+                0x0000000000000af4                timerManagerFunction
+ .text.startup  0x0000000000000b48      0x134 obj/default/hello_world_small.o
+                0x0000000000000b48                main
+ .text          0x0000000000000c7c      0x1b4 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                0x0000000000000c7c                __divsi3
+                0x0000000000000cfc                __modsi3
+                0x0000000000000d70                __udivsi3
+                0x0000000000000dd4                __umodsi3
+ .text          0x0000000000000e30       0x8c c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o)
+                0x0000000000000e30                alt_ic_isr_register
+                0x0000000000000e34                alt_ic_irq_enable
+                0x0000000000000e6c                alt_ic_irq_disable
+                0x0000000000000ea4                alt_ic_irq_enabled
+ .text          0x0000000000000ebc       0x68 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                0x0000000000000ebc                alt_iic_isr_register
+ .text          0x0000000000000f24        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .text          0x0000000000000f24        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .text          0x0000000000000f24       0x90 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+                0x0000000000000f24                alt_irq_register
+ .text          0x0000000000000fb4        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .text          0x0000000000000fb4       0x84 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o)
+                0x0000000000000fb4                alt_load
+ .text          0x0000000000001038       0x2c c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o)
+                0x0000000000001038                alt_main
+ .text          0x0000000000001064       0x24 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x0000000000001064                alt_irq_init
+                0x0000000000001084                alt_sys_init
+ .text          0x0000000000001088        0x4 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x0000000000001088                alt_dcache_flush_all
+ .text          0x000000000000108c        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .text          0x000000000000108c        0x4 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                0x000000000000108c                alt_icache_flush_all
+ .text          0x0000000000001090       0x70 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x0000000000001090                alt_exception_cause_generated_bad_addr
+ .text          0x0000000000001100        0x8 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x0000000000001100                altera_nios2_gen2_irq_init
+ .text          0x0000000000001108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000000001108       0x28 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                0x0000000000001108                memcpy
+ *(.gnu.warning.*)
+ *(.fini)
+                [!provide]                        PROVIDE (__etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (_etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (etext = ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x0000000000001130                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = ABSOLUTE (.))
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__init_array_start = ABSOLUTE (.))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__fini_array_start = ABSOLUTE (.))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                [!provide]                        PROVIDE (__CTOR_LIST__ = ABSOLUTE (.))
+ *(.ctors)
+ *(SORT_BY_NAME(.ctors.*))
+                [!provide]                        PROVIDE (__CTOR_END__ = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__DTOR_LIST__ = ABSOLUTE (.))
+ *(.dtors)
+ *(SORT_BY_NAME(.dtors.*))
+                [!provide]                        PROVIDE (__DTOR_END__ = ABSOLUTE (.))
+ *(.jcr)
+                0x0000000000001130                . = ALIGN (0x4)
+
+.rodata         0x0000000000001130        0x0
+                0x0000000000001130                PROVIDE (__ram_rodata_start = ABSOLUTE (.))
+                0x0000000000001130                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ *(.rodata1)
+                0x0000000000001130                . = ALIGN (0x4)
+                0x0000000000001130                PROVIDE (__ram_rodata_end = ABSOLUTE (.))
+                0x0000000000001130                PROVIDE (__flash_rodata_start = LOADADDR (.rodata))
+
+.rwdata         0x0000000000001130       0x24 load address 0x0000000000001154
+                0x0000000000001130                PROVIDE (__ram_rwdata_start = ABSOLUTE (.))
+                0x0000000000001130                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o
+ .data          0x0000000000001130        0x0 obj/default/hello_world_small.o
+ .data          0x0000000000001130        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .data          0x0000000000001130        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x0000000000001130        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                0x0000000000009130                _gp = ABSOLUTE ((. + 0x8000))
+                [!provide]                        PROVIDE (gp = _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x0000000000001130       0x1c obj/default/hello_world_small.o
+                0x0000000000001130                ledPointer
+                0x0000000000001134                segH1Pointer
+                0x0000000000001138                segH0Pointer
+                0x000000000000113c                segM1Pointer
+                0x0000000000001140                segM0Pointer
+                0x0000000000001144                sec1Pointer
+                0x0000000000001148                sec0Pointer
+ .sdata         0x000000000000114c        0x4 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x000000000000114c                alt_priority_mask
+ .sdata         0x0000000000001150        0x4 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x0000000000001150                UART
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000000000001154                . = ALIGN (0x4)
+                0x0000000000001154                _edata = ABSOLUTE (.)
+                [!provide]                        PROVIDE (edata = ABSOLUTE (.))
+                0x0000000000001154                PROVIDE (__ram_rwdata_end = ABSOLUTE (.))
+                0x0000000000001154                PROVIDE (__flash_rwdata_start = LOADADDR (.rwdata))
+
+.bss            0x0000000000001178      0x168
+                0x0000000000001178                __bss_start = ABSOLUTE (.)
+                [!provide]                        PROVIDE (__sbss_start = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_start = ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x0000000000001178       0x54 obj/default/hello_world_small.o
+                0x0000000000001178                UARTActualValue
+                0x000000000000117c                UARTCounterPointer
+                0x0000000000001180                uartHour1Ptr
+                0x0000000000001184                uartHour0Ptr
+                0x0000000000001188                uartMin1Ptr
+                0x000000000000118c                uartMin0Ptr
+                0x0000000000001190                uartSeg1Ptr
+                0x0000000000001194                uartSeg0Ptr
+                0x0000000000001198                ticTicPointer
+                0x000000000000119c                alarmPointerHour
+                0x00000000000011a0                alarmPointerMin
+                0x00000000000011a4                pointerAlarmForSeg
+                0x00000000000011a8                configurationPointer
+                0x00000000000011ac                hourPointer
+                0x00000000000011b0                minPointer
+                0x00000000000011b4                secPointer
+                0x00000000000011b8                pointerSelector
+                0x00000000000011bc                ramPtr
+                0x00000000000011c0                buttonSelEdgeCaputer
+                0x00000000000011c4                buttonIncEdgeCaputer
+                0x00000000000011c8                buttonModeEdgeCapturer
+ .sbss          0x00000000000011cc        0x4 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x00000000000011cc                alt_irq_active
+ .sbss          0x00000000000011d0        0xc c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o)
+                0x00000000000011d0                alt_envp
+                0x00000000000011d4                alt_argv
+                0x00000000000011d8                alt_argc
+ .sbss          0x00000000000011dc        0x4 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x00000000000011dc                alt_instruction_exception_handler
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                [!provide]                        PROVIDE (__sbss_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_end = ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00000000000011e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o
+ .bss           0x00000000000011e0        0x0 obj/default/hello_world_small.o
+ .bss           0x00000000000011e0        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .bss           0x00000000000011e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o)
+ .bss           0x00000000000011e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .bss           0x00000000000011e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x00000000000011e0      0x100 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x00000000000011e0                alt_irq
+ .bss           0x00000000000012e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .bss           0x00000000000012e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x00000000000012e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o)
+ .bss           0x00000000000012e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x00000000000012e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x00000000000012e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x00000000000012e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x00000000000012e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x00000000000012e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .bss           0x00000000000012e0        0x0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x00000000000012e0        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ *(COMMON)
+                0x00000000000012e0                . = ALIGN (0x4)
+                0x00000000000012e0                __bss_end = ABSOLUTE (.)
+
+.RAM            0x00000000000012e0        0x0
+                [!provide]                        PROVIDE (_alt_partition_RAM_start = ABSOLUTE (.))
+ *(.RAM .RAM. RAM.*)
+                0x00000000000012e0                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_alt_partition_RAM_end = ABSOLUTE (.))
+                0x00000000000012e0                _end = ABSOLUTE (.)
+                0x00000000000012e0                end = ABSOLUTE (.)
+                0x00000000000012e0                __alt_stack_base = ABSOLUTE (.)
+                [!provide]                        PROVIDE (_alt_partition_RAM_load_addr = LOADADDR (.RAM))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2d
+ *(.comment)
+ .comment       0x0000000000000000       0x2d obj/default/hello_world_small.o
+                                         0x2e (size before relaxing)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .comment       0x000000000000002d       0x2e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o)
+ .comment       0x000000000000002d       0x2e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .comment       0x000000000000002d       0x2e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x000000000000002d       0x2e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .comment       0x000000000000002d       0x2e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .comment       0x000000000000002d       0x2e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o)
+ .comment       0x000000000000002d       0x2e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x000000000000002d       0x2e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x000000000000002d       0x2e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x000000000000002d       0x2e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x000000000000002d       0x2e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .comment       0x000000000000002d       0x2e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x278
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x0000000000000028       0x28 obj/default/hello_world_small.o
+ .debug_aranges
+                0x0000000000000050       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x0000000000000070       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_aranges
+                0x0000000000000090       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_aranges
+                0x00000000000000b0       0x30 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_aranges
+                0x0000000000000100       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_aranges
+                0x0000000000000120       0x18 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_aranges
+                0x0000000000000138       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x0000000000000158       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x0000000000000178       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x0000000000000198       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x00000000000001b8       0x38 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_aranges
+                0x00000000000001f0       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x0000000000000210       0x28 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_aranges
+                0x0000000000000238       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_aranges
+                0x0000000000000258       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x1f87
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x22 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000000000000022      0x67f obj/default/hello_world_small.o
+ .debug_info    0x00000000000006a1      0x368 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_info    0x0000000000000a09      0x3db c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_info    0x0000000000000de4      0x273 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x0000000000001057       0x22 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x0000000000001079      0x19a c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x0000000000001213      0x332 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_info    0x0000000000001545       0x8b c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x00000000000015d0      0x267 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_info    0x0000000000001837      0x129 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x0000000000001960      0x12a c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x0000000000001a8a       0x8c c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x0000000000001b16       0x22 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x0000000000001b38       0x8c c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x0000000000001bc4      0x20f c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_info    0x0000000000001dd3       0x8c c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x0000000000001e5f      0x128 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+
+.debug_abbrev   0x0000000000000000      0xfbe
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x12 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000012      0x1e0 obj/default/hello_world_small.o
+ .debug_abbrev  0x00000000000001f2      0x103 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x00000000000002f5      0x1c0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_abbrev  0x00000000000004b5      0x1d8 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x000000000000068d       0x12 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x000000000000069f      0x145 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x00000000000007e4      0x1fa c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_abbrev  0x00000000000009de       0x44 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x0000000000000a22      0x125 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x0000000000000b47       0xba c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x0000000000000c01      0x10b c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x0000000000000d0c       0x44 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x0000000000000d50       0x12 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x0000000000000d62       0x44 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x0000000000000da6      0x116 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_abbrev  0x0000000000000ebc       0x44 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x0000000000000f00       0xbe c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+
+.debug_line     0x0000000000000000     0x19dc
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x66 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000066      0x90b obj/default/hello_world_small.o
+ .debug_line    0x0000000000000971      0x306 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_line    0x0000000000000c77      0x19b c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_line    0x0000000000000e12      0x155 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x0000000000000f67       0x6b c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x0000000000000fd2      0x123 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x00000000000010f5      0x1b1 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_line    0x00000000000012a6       0x50 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x00000000000012f6      0x101 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_line    0x00000000000013f7       0xe0 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x00000000000014d7       0xd9 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x00000000000015b0       0x53 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x0000000000001603       0xb3 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x00000000000016b6       0x51 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x0000000000001707       0xee c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_line    0x00000000000017f5       0x5a c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x000000000000184f      0x18d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+
+.debug_frame    0x0000000000000000      0x398
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x128 obj/default/hello_world_small.o
+ .debug_frame   0x0000000000000128       0x50 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_frame   0x0000000000000178       0x50 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_frame   0x00000000000001c8       0x38 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_frame   0x0000000000000200       0x34 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x0000000000000234       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_frame   0x0000000000000254       0x2c c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x0000000000000280       0x2c c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x00000000000002ac       0x3c c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x00000000000002e8       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x0000000000000308       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x0000000000000328       0x30 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_frame   0x0000000000000358       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x0000000000000378       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+
+.debug_str      0x0000000000000000     0x1033
+ *(.debug_str)
+ .debug_str     0x0000000000000000       0x79 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o
+ .debug_str     0x0000000000000079      0x429 obj/default/hello_world_small.o
+                                        0x467 (size before relaxing)
+ .debug_str     0x00000000000004a2      0x181 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                                        0x1e0 (size before relaxing)
+ .debug_str     0x0000000000000623       0xe6 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o)
+                                        0x263 (size before relaxing)
+ .debug_str     0x0000000000000709       0x37 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                                        0x22f (size before relaxing)
+ .debug_str     0x0000000000000740       0x18 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                                         0x82 (size before relaxing)
+ .debug_str     0x0000000000000758       0x3a c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                                        0x1b9 (size before relaxing)
+ .debug_str     0x0000000000000792       0x1b c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+                                        0x218 (size before relaxing)
+ .debug_str     0x00000000000007ad       0x29 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                                        0x165 (size before relaxing)
+ .debug_str     0x00000000000007d6      0x124 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o)
+                                        0x276 (size before relaxing)
+ .debug_str     0x00000000000008fa       0x5e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_main.o)
+                                        0x1a6 (size before relaxing)
+ .debug_str     0x0000000000000958       0x86 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+                                        0x1e3 (size before relaxing)
+ .debug_str     0x00000000000009de       0x1f c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                                        0x177 (size before relaxing)
+ .debug_str     0x00000000000009fd       0x1e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                                         0x88 (size before relaxing)
+ .debug_str     0x0000000000000a1b       0x1f c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x177 (size before relaxing)
+ .debug_str     0x0000000000000a3a      0x48b c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                                        0x5cb (size before relaxing)
+ .debug_str     0x0000000000000ec5       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                        0x17e (size before relaxing)
+ .debug_str     0x0000000000000ee5      0x14e c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                                        0x1ea (size before relaxing)
+
+.debug_loc      0x0000000000000000      0xe1c
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x5f obj/default/hello_world_small.o
+ .debug_loc     0x000000000000005f      0x5d0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_loc     0x000000000000062f      0x205 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_loc     0x0000000000000834      0x23c c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_loc     0x0000000000000a70       0xac c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_loc     0x0000000000000b1c      0x13e c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_loc     0x0000000000000c5a       0x25 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_loc     0x0000000000000c7f       0x73 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_loc     0x0000000000000cf2      0x12a c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x0000000000000000       0x10
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x0000000000000000       0x10 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o
+                0x0000000000001400                __alt_data_end = 0x1400
+                0x0000000000001400                PROVIDE (__alt_stack_pointer = __alt_data_end)
+                [!provide]                        PROVIDE (__alt_stack_limit = __alt_stack_base)
+                [!provide]                        PROVIDE (__alt_heap_start = end)
+                [!provide]                        PROVIDE (__alt_heap_limit = 0x1400)
+OUTPUT(hola_mundo.elf elf32-littlenios2)
+LOAD linker stubs
+
+.debug_ranges   0x0000000000000000      0x1e0
+ .debug_ranges  0x0000000000000000       0x20 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x0000000000000020       0x18 obj/default/hello_world_small.o
+ .debug_ranges  0x0000000000000038       0x70 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_ranges  0x00000000000000a8       0x18 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_ranges  0x00000000000000c0       0x28 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x00000000000000e8       0x28 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_ranges  0x0000000000000110       0x48 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_ranges  0x0000000000000158       0x30 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_ranges  0x0000000000000188       0x30 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_ranges  0x00000000000001b8       0x18 c:/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_ranges  0x00000000000001d0       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)

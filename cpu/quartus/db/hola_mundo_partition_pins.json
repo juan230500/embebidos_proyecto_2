@@ -1,0 +1,237 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "leds_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "leds_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "leds_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "leds_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "leds_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "leds_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "leds_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "leds_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h0_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h0_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h0_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h0_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h0_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h0_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h0_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h1_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h1_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h1_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h1_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h1_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h1_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7h1_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m0_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m0_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m0_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m0_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m0_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m0_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m0_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m1_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m1_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m1_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m1_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m1_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m1_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7m1_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s0_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s0_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s0_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s0_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s0_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s0_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s0_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s1_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s1_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s1_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s1_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s1_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s1_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg7s1_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "uart_txd",
+					"strict" : false
+				},
+				{
+					"name" : "clk_clk",
+					"strict" : false
+				},
+				{
+					"name" : "btsel_export",
+					"strict" : false
+				},
+				{
+					"name" : "btmode_export",
+					"strict" : false
+				},
+				{
+					"name" : "btinc_export",
+					"strict" : false
+				},
+				{
+					"name" : "reset_reset_n",
+					"strict" : false
+				},
+				{
+					"name" : "uart_rxd",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

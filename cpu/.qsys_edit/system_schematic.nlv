@@ -1,0 +1,20 @@
+# # File gsaved with Nlview version 6.3.8  2013-12-19 bk=1.2992 VDI=34 GEI=35
+# 
+preplace inst system.CPU.cpu -pg 1
+preplace inst system.CPU -pg 1 -lvl 2 -y 120
+preplace inst system.CLK -pg 1 -lvl 1 -y 300
+preplace inst system.RAM -pg 1 -lvl 3 -y 30
+preplace inst system.REG -pg 1 -lvl 3 -y 260
+preplace inst system.CPU.reset_bridge -pg 1
+preplace inst system.CPU.clock_bridge -pg 1
+preplace inst system.UART -pg 1 -lvl 3 -y 160
+preplace inst system -pg 1 -lvl 1 -y 40 -regy -20
+preplace netloc EXPORT<net_container>system</net_container>(SLAVE)system.reset,(SLAVE)CLK.clk_in_reset) 1 0 1 NJ
+preplace netloc POINT_TO_POINT<net_container>system</net_container>(MASTER)CPU.irq,(SLAVE)UART.irq) 1 2 1 N
+preplace netloc FAN_OUT<net_container>system</net_container>(SLAVE)CPU.clk,(MASTER)CLK.clk,(SLAVE)REG.clk,(SLAVE)UART.clk,(SLAVE)RAM.clk1) 1 1 2 260 330 680
+preplace netloc INTERCONNECT<net_container>system</net_container>(SLAVE)CPU.debug_mem_slave,(SLAVE)REG.s1,(SLAVE)UART.avalon_jtag_slave,(MASTER)CPU.data_master,(SLAVE)RAM.s1,(MASTER)CPU.instruction_master) 1 1 2 300 260 660
+preplace netloc EXPORT<net_container>system</net_container>(SLAVE)REG.external_connection,(SLAVE)system.regs) 1 0 3 NJ 290 NJ 290 NJ
+preplace netloc EXPORT<net_container>system</net_container>(SLAVE)CLK.clk_in,(SLAVE)system.clk) 1 0 1 NJ
+preplace netloc FAN_OUT<net_container>system</net_container>(SLAVE)CPU.reset,(SLAVE)REG.reset,(SLAVE)UART.reset,(SLAVE)RAM.reset1,(MASTER)CLK.clk_reset) 1 1 2 280 310 700
+levelinfo -pg 1 0 50 890
+levelinfo -hier system 60 90 420 730 880

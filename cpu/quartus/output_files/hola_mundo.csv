@@ -1,0 +1,84 @@
+# Copyright (C) 2020  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and any partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details, at
+# https://fpgasoftware.intel.com/eula.
+
+# Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+# File: C:\Users\Juanp\OneDrive\Documentos\CARPETA_DE_EMBEBIDOS\TEST_5\cpu\quartus\output_files\hola_mundo.csv
+# Generated on: Sat Apr 30 14:24:52 2022
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Transceiver Analog Settings Protocol,VCCR_GXB/VCCT_GXB Voltage,Transceiver I/O Pin Termination,Transceiver Dedicated Refclk Pin Termination,Transmitter Common Mode Driver Voltage,Transmitter Slew Rate Control,Transmitter Differential Output Voltage,Receiver Buffer Common Mode Voltage,Strict Preservation
+altera_reserved_tck,Input,,,,,,,,,,,,,,,,,
+altera_reserved_tdi,Input,,,,,,,,,,,,,,,,,
+altera_reserved_tdo,Output,,,,,,,,,,,,,,,,,
+altera_reserved_tms,Input,,,,,,,,,,,,,,,,,
+btinc_export,Input,PIN_AA15,3B,B3B_N0,,,,,,,,,,,,,,
+btmode_export,Input,PIN_Y16,3B,B3B_N0,,,,,,,,,,,,,,
+btsel_export,Input,PIN_W15,3B,B3B_N0,,,,,,,,,,,,,,
+clk_clk,Input,PIN_AF14,3B,B3B_N0,,,,,,,,,,,,,,
+leds_export[7],Output,PIN_W20,5A,B5A_N0,,,,,,,,,,,,,,
+leds_export[6],Output,PIN_Y19,4A,B4A_N0,,,,,,,,,,,,,,
+leds_export[5],Output,PIN_W19,4A,B4A_N0,,,,,,,,,,,,,,
+leds_export[4],Output,PIN_W17,4A,B4A_N0,,,,,,,,,,,,,,
+leds_export[3],Output,PIN_V18,4A,B4A_N0,,,,,,,,,,,,,,
+leds_export[2],Output,PIN_V17,4A,B4A_N0,,,,,,,,,,,,,,
+leds_export[1],Output,PIN_W16,4A,B4A_N0,,,,,,,,,,,,,,
+leds_export[0],Output,PIN_V16,4A,B4A_N0,,,,,,,,,,,,,,
+reset_reset_n,Input,,,,,,,,,,,,,,,,,
+seg7h0_export[6],Output,PIN_W25,5B,B5B_N0,,,,,,,,,,,,,,
+seg7h0_export[5],Output,PIN_V23,5A,B5A_N0,,,,,,,,,,,,,,
+seg7h0_export[4],Output,PIN_W24,5A,B5A_N0,,,,,,,,,,,,,,
+seg7h0_export[3],Output,PIN_W22,5A,B5A_N0,,,,,,,,,,,,,,
+seg7h0_export[2],Output,PIN_Y24,5A,B5A_N0,,,,,,,,,,,,,,
+seg7h0_export[1],Output,PIN_Y23,5A,B5A_N0,,,,,,,,,,,,,,
+seg7h0_export[0],Output,PIN_AA24,5A,B5A_N0,,,,,,,,,,,,,,
+seg7h1_export[6],Output,PIN_AA25,5A,B5A_N0,,,,,,,,,,,,,,
+seg7h1_export[5],Output,PIN_AA26,5B,B5B_N0,,,,,,,,,,,,,,
+seg7h1_export[4],Output,PIN_AB26,5A,B5A_N0,,,,,,,,,,,,,,
+seg7h1_export[3],Output,PIN_AB27,5B,B5B_N0,,,,,,,,,,,,,,
+seg7h1_export[2],Output,PIN_Y27,5B,B5B_N0,,,,,,,,,,,,,,
+seg7h1_export[1],Output,PIN_AA28,5B,B5B_N0,,,,,,,,,,,,,,
+seg7h1_export[0],Output,PIN_V25,5B,B5B_N0,,,,,,,,,,,,,,
+seg7m0_export[6],Output,PIN_AC30,5B,B5B_N0,,,,,,,,,,,,,,
+seg7m0_export[5],Output,PIN_AC29,5B,B5B_N0,,,,,,,,,,,,,,
+seg7m0_export[4],Output,PIN_AD30,5B,B5B_N0,,,,,,,,,,,,,,
+seg7m0_export[3],Output,PIN_AC28,5B,B5B_N0,,,,,,,,,,,,,,
+seg7m0_export[2],Output,PIN_AD29,5B,B5B_N0,,,,,,,,,,,,,,
+seg7m0_export[1],Output,PIN_AE29,5B,B5B_N0,,,,,,,,,,,,,,
+seg7m0_export[0],Output,PIN_AB23,5A,B5A_N0,,,,,,,,,,,,,,
+seg7m1_export[6],Output,PIN_AB22,5A,B5A_N0,,,,,,,,,,,,,,
+seg7m1_export[5],Output,PIN_AB25,5A,B5A_N0,,,,,,,,,,,,,,
+seg7m1_export[4],Output,PIN_AB28,5B,B5B_N0,,,,,,,,,,,,,,
+seg7m1_export[3],Output,PIN_AC25,5A,B5A_N0,,,,,,,,,,,,,,
+seg7m1_export[2],Output,PIN_AD25,5A,B5A_N0,,,,,,,,,,,,,,
+seg7m1_export[1],Output,PIN_AC27,5A,B5A_N0,,,,,,,,,,,,,,
+seg7m1_export[0],Output,PIN_AD26,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s0_export[6],Output,PIN_AH28,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s0_export[5],Output,PIN_AG28,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s0_export[4],Output,PIN_AF28,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s0_export[3],Output,PIN_AG27,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s0_export[2],Output,PIN_AE28,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s0_export[1],Output,PIN_AE27,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s0_export[0],Output,PIN_AE26,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s1_export[6],Output,PIN_AD27,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s1_export[5],Output,PIN_AF30,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s1_export[4],Output,PIN_AF29,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s1_export[3],Output,PIN_AG30,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s1_export[2],Output,PIN_AH30,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s1_export[1],Output,PIN_AH29,5A,B5A_N0,,,,,,,,,,,,,,
+seg7s1_export[0],Output,PIN_AJ29,5A,B5A_N0,,,,,,,,,,,,,,
+uart_rxd,Input,PIN_AC18,4A,B4A_N0,,,,,,,,,,,,,,
+uart_txd,Output,PIN_Y17,4A,B4A_N0,,,,,,,,,,,,,,
+RESET,Unknown,PIN_AE12,3A,B3A_N0,,,,,,,,,,,,,,

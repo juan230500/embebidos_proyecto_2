@@ -1,0 +1,12 @@
+14:54:49 **** Incremental Build of configuration Nios II for project hola_mundo ****
+wsl make all 
+Info: Building /mnt/c/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/
+make --no-print-directory -C /mnt/c/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/
+[BSP build complete]
+[hola_mundo build complete]
+14:55:16 **** Incremental Build of configuration Nios II for project hola_mundo ****
+wsl make all 
+Info: Building /mnt/c/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/
+make --no-print-directory -C /mnt/c/Users/Juanp/OneDrive/Documentos/CARPETA_DE_EMBEBIDOS/TEST_5/cpu/software/hola_mundo_bsp/
+[BSP build complete]
+[hola_mundo build complete]
